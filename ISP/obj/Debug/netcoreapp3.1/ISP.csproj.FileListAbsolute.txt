@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\ISP.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\ISP.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\ISP.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\ISP.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\ISP.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\ISP.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\ISP.csproj.AssemblyReference.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\ISP.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\ISP.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\ISP.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\ISP.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\ISP.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\ISP.genruntimeconfig.cache

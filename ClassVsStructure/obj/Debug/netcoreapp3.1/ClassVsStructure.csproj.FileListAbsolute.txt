@@ -1,0 +1,12 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\bin\Debug\netcoreapp3.1\ClassVsStructure.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\bin\Debug\netcoreapp3.1\ClassVsStructure.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\bin\Debug\netcoreapp3.1\ClassVsStructure.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\bin\Debug\netcoreapp3.1\ClassVsStructure.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\bin\Debug\netcoreapp3.1\ClassVsStructure.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\bin\Debug\netcoreapp3.1\ClassVsStructure.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\obj\Debug\netcoreapp3.1\ClassVsStructure.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\obj\Debug\netcoreapp3.1\ClassVsStructure.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\obj\Debug\netcoreapp3.1\ClassVsStructure.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\obj\Debug\netcoreapp3.1\ClassVsStructure.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\obj\Debug\netcoreapp3.1\ClassVsStructure.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ClassVsStructure\obj\Debug\netcoreapp3.1\ClassVsStructure.genruntimeconfig.cache

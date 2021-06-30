@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "singleton-sealedless/1.0.0": {
+        "runtime": {
+          "singleton-sealedless.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "singleton-sealedless/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

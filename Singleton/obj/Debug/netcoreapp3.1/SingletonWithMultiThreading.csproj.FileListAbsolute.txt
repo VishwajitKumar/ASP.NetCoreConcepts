@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\bin\Debug\netcoreapp3.1\SingletonWithMultiThreading.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\bin\Debug\netcoreapp3.1\SingletonWithMultiThreading.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\bin\Debug\netcoreapp3.1\SingletonWithMultiThreading.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\bin\Debug\netcoreapp3.1\SingletonWithMultiThreading.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\bin\Debug\netcoreapp3.1\SingletonWithMultiThreading.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\bin\Debug\netcoreapp3.1\SingletonWithMultiThreading.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\obj\Debug\netcoreapp3.1\SingletonWithMultiThreading.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\obj\Debug\netcoreapp3.1\SingletonWithMultiThreading.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\obj\Debug\netcoreapp3.1\SingletonWithMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\obj\Debug\netcoreapp3.1\SingletonWithMultiThreading.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\obj\Debug\netcoreapp3.1\SingletonWithMultiThreading.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\obj\Debug\netcoreapp3.1\SingletonWithMultiThreading.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\Singleton\obj\Debug\netcoreapp3.1\SingletonWithMultiThreading.csproj.AssemblyReference.cache

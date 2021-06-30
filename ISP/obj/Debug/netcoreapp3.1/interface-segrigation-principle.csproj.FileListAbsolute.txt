@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\interface-segrigation-principle.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\interface-segrigation-principle.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\interface-segrigation-principle.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\interface-segrigation-principle.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\interface-segrigation-principle.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\bin\Debug\netcoreapp3.1\interface-segrigation-principle.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\interface-segrigation-principle.csproj.AssemblyReference.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\interface-segrigation-principle.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\interface-segrigation-principle.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\interface-segrigation-principle.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\interface-segrigation-principle.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\interface-segrigation-principle.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ISP\obj\Debug\netcoreapp3.1\interface-segrigation-principle.genruntimeconfig.cache

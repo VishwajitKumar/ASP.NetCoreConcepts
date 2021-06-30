@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SRP.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SRP.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SRP.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SRP.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SRP.csproj.AssemblyReference.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SRP.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SRP.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SRP.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SRP.genruntimeconfig.cache

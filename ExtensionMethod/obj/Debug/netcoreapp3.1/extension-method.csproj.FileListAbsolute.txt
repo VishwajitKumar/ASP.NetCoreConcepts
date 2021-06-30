@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\bin\Debug\netcoreapp3.1\extension-method.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\bin\Debug\netcoreapp3.1\extension-method.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\bin\Debug\netcoreapp3.1\extension-method.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\bin\Debug\netcoreapp3.1\extension-method.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\bin\Debug\netcoreapp3.1\extension-method.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\bin\Debug\netcoreapp3.1\extension-method.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\obj\Debug\netcoreapp3.1\extension-method.csproj.AssemblyReference.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\obj\Debug\netcoreapp3.1\extension-method.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\obj\Debug\netcoreapp3.1\extension-method.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\obj\Debug\netcoreapp3.1\extension-method.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\obj\Debug\netcoreapp3.1\extension-method.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\obj\Debug\netcoreapp3.1\extension-method.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ExtensionMethod\obj\Debug\netcoreapp3.1\extension-method.genruntimeconfig.cache

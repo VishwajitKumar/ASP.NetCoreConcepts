@@ -1,0 +1,12 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache

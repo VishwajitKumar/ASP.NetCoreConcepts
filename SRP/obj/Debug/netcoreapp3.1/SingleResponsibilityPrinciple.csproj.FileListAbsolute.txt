@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SRP\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache

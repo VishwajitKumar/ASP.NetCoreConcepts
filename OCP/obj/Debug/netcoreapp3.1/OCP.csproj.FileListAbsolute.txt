@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OCP.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OCP.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OCP.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OCP.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OCP.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OCP.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OCP.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OCP.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OCP.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OCP.csproj.AssemblyReference.cache

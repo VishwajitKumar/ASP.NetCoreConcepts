@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\bin\Debug\netcoreapp3.1\SingletonDemo.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.AssemblyReference.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\SingletonDemo\obj\Debug\netcoreapp3.1\SingletonDemo.genruntimeconfig.cache

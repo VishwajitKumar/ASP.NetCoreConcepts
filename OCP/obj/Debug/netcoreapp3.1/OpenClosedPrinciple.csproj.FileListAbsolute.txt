@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\OCP\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.AssemblyReference.cache

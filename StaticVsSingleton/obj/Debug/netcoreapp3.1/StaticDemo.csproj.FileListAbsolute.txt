@@ -1,0 +1,12 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\bin\Debug\netcoreapp3.1\StaticDemo.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\bin\Debug\netcoreapp3.1\StaticDemo.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\bin\Debug\netcoreapp3.1\StaticDemo.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\bin\Debug\netcoreapp3.1\StaticDemo.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\bin\Debug\netcoreapp3.1\StaticDemo.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\obj\Debug\netcoreapp3.1\StaticDemo.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\obj\Debug\netcoreapp3.1\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\obj\Debug\netcoreapp3.1\StaticDemo.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\obj\Debug\netcoreapp3.1\StaticDemo.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\StaticVsSingleton\obj\Debug\netcoreapp3.1\StaticDemo.genruntimeconfig.cache

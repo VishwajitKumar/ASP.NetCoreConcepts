@@ -1,0 +1,12 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\bin\Debug\netcoreapp3.1\SingletonIfSealedless.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\bin\Debug\netcoreapp3.1\SingletonIfSealedless.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\bin\Debug\netcoreapp3.1\SingletonIfSealedless.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\bin\Debug\netcoreapp3.1\SingletonIfSealedless.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\bin\Debug\netcoreapp3.1\SingletonIfSealedless.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\bin\Debug\netcoreapp3.1\SingletonIfSealedless.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\obj\Debug\netcoreapp3.1\SingletonIfSealedless.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\obj\Debug\netcoreapp3.1\SingletonIfSealedless.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\obj\Debug\netcoreapp3.1\SingletonIfSealedless.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\obj\Debug\netcoreapp3.1\SingletonIfSealedless.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\obj\Debug\netcoreapp3.1\SingletonIfSealedless.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-sealedless\obj\Debug\netcoreapp3.1\SingletonIfSealedless.genruntimeconfig.cache

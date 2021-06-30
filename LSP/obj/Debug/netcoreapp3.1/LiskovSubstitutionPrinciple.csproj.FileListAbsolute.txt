@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\LSP\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache

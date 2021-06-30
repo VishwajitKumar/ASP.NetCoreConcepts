@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csproj.AssemblyReference.cache

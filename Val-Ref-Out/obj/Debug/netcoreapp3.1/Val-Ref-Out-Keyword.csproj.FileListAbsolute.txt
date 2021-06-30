@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\bin\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\bin\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\bin\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\bin\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\bin\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\bin\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\obj\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\obj\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\obj\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\obj\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\obj\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\obj\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\val-ref-out\obj\Debug\netcoreapp3.1\Val-Ref-Out-Keyword.csproj.AssemblyReference.cache

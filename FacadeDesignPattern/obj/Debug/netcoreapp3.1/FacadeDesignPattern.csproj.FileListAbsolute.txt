@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\bin\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\FacadeDesignPattern\obj\Debug\netcoreapp3.1\FacadeDesignPattern.csproj.AssemblyReference.cache

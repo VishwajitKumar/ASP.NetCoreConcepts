@@ -1,0 +1,12 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\bin\Debug\netcoreapp3.1\singleton-eager-loading.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\bin\Debug\netcoreapp3.1\singleton-eager-loading.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\bin\Debug\netcoreapp3.1\singleton-eager-loading.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\bin\Debug\netcoreapp3.1\singleton-eager-loading.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\bin\Debug\netcoreapp3.1\singleton-eager-loading.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\bin\Debug\netcoreapp3.1\singleton-eager-loading.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\obj\Debug\netcoreapp3.1\singleton-eager-loading.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\obj\Debug\netcoreapp3.1\singleton-eager-loading.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\obj\Debug\netcoreapp3.1\singleton-eager-loading.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\obj\Debug\netcoreapp3.1\singleton-eager-loading.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\obj\Debug\netcoreapp3.1\singleton-eager-loading.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\singleton-eager-loading\obj\Debug\netcoreapp3.1\singleton-eager-loading.genruntimeconfig.cache

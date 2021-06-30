@@ -1,0 +1,12 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\bin\Debug\netcoreapp3.1\ConstructorConcept.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\bin\Debug\netcoreapp3.1\ConstructorConcept.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\bin\Debug\netcoreapp3.1\ConstructorConcept.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\bin\Debug\netcoreapp3.1\ConstructorConcept.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\bin\Debug\netcoreapp3.1\ConstructorConcept.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\bin\Debug\netcoreapp3.1\ConstructorConcept.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\obj\Debug\netcoreapp3.1\ConstructorConcept.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\obj\Debug\netcoreapp3.1\ConstructorConcept.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\obj\Debug\netcoreapp3.1\ConstructorConcept.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\obj\Debug\netcoreapp3.1\ConstructorConcept.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\obj\Debug\netcoreapp3.1\ConstructorConcept.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\ConstructorConcept\obj\Debug\netcoreapp3.1\ConstructorConcept.genruntimeconfig.cache

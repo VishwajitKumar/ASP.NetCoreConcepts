@@ -1,0 +1,12 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\bin\Debug\netcoreapp3.1\PolymorphismDemo.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\PolymorphismDemo\obj\Debug\netcoreapp3.1\PolymorphismDemo.genruntimeconfig.cache

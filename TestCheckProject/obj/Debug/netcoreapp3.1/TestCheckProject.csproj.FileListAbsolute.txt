@@ -1,0 +1,13 @@
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\bin\Debug\netcoreapp3.1\TestCheckProject.exe
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\bin\Debug\netcoreapp3.1\TestCheckProject.deps.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\bin\Debug\netcoreapp3.1\TestCheckProject.runtimeconfig.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\bin\Debug\netcoreapp3.1\TestCheckProject.runtimeconfig.dev.json
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\bin\Debug\netcoreapp3.1\TestCheckProject.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\bin\Debug\netcoreapp3.1\TestCheckProject.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\obj\Debug\netcoreapp3.1\TestCheckProject.AssemblyInfoInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\obj\Debug\netcoreapp3.1\TestCheckProject.AssemblyInfo.cs
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\obj\Debug\netcoreapp3.1\TestCheckProject.csproj.CoreCompileInputs.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\obj\Debug\netcoreapp3.1\TestCheckProject.dll
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\obj\Debug\netcoreapp3.1\TestCheckProject.pdb
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\obj\Debug\netcoreapp3.1\TestCheckProject.genruntimeconfig.cache
+C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\TestCheckProject\obj\Debug\netcoreapp3.1\TestCheckProject.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+Method Hiding- derived class object reference calling base class method is called method hiding
+Method overriding- Base class reference variable pointing to derived class instance calling derived class overridden method. 
+its run time decide which method to call.
+Method overloading- same method name but diferent signature in terms of number of parameters, data types of parameters but not based
+on return type is called method overloading. at compile time only comiler decide which method to execute.
