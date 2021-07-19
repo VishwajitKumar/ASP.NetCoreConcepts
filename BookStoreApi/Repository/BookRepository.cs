@@ -1,4 +1,5 @@
-﻿using BookStoreApi.Data;
+﻿using AutoMapper;
+using BookStoreApi.Data;
 using BookStoreApi.Model;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.EntityFrameworkCore;
@@ -11,19 +12,37 @@ namespace BookStoreApi.Repository
     public class BookRepository : IBookRepository
     {
         private readonly BookStoreContext _bookStoreContext;
-        public BookRepository(BookStoreContext bookStoreContext)
+        private readonly IMapper _mapper;
+        public BookRepository(BookStoreContext bookStoreContext, IMapper mapper)
         {
             _bookStoreContext = bookStoreContext;
+            _mapper = mapper;
         }
 
         public async Task<List<BookDto>> GetAllBooks()
         {
-            return await _bookStoreContext.Book.Select(x => new BookDto() { Id = x.Id, Title = x.Title, Description = x.Description }).ToListAsync();
+            //var books = await _bookStoreContext.Book
+            //    .Select(x => new BookDto()
+            //    {
+            //        Id = x.Id,
+            //        Title = x.Title,
+            //        Description = x.Description
+            //    }).ToListAsync();
+
+            //return books;
+
+            //With AutoMapper
+            var books = await _bookStoreContext.Book.ToListAsync();
+            return _mapper.Map<List<BookDto>>(books);
         }
         public async Task<BookDto> GetBookById(int Id)
         {
-            var book = await _bookStoreContext.Book.Where(x => x.Id.Equals(Id)).Select(x => new BookDto() { Id = x.Id, Title = x.Title, Description = x.Description }).SingleOrDefaultAsync();
-            return book;
+            //var book = await _bookStoreContext.Book.Where(x => x.Id.Equals(Id)).Select(x => new BookDto() { Id = x.Id, Title = x.Title, Description = x.Description }).SingleOrDefaultAsync();
+            //return book;
+
+            var book = await _bookStoreContext.Book.FindAsync(Id);
+
+            return _mapper.Map<BookDto>(book);
         }
         public async Task<int> AddBook(BookDto bookDto)
         {

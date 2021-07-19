@@ -20,7 +20,7 @@ namespace InheritanceDemo
         /// </summary>
         public new void PrintFullName()
         {
-            base.PrintFullName();//It will call base class printfullname method.
+            //PrintFullName();//It will call base class printfullname method.
             Console.WriteLine($"{ FirstName} {LastName}- Derived class hiding base class Printfullname method");
         }
     }

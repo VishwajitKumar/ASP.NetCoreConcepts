@@ -36,4 +36,27 @@ namespace TestCheckProject
             Console.ReadKey();
         }
     }
+
+    class A
+    {
+        public virtual void display()
+        {
+            Console.WriteLine("A - display");
+        }
+        public virtual void disp()
+        {
+            Console.WriteLine("A - disp");
+        }
+    }
+    abstract class ab : A
+    {
+        public ab()
+        { }
+        public abstract override void display(); //Error Line 1
+
+        public sealed override void disp()  //Error Line 2
+        {
+            Console.WriteLine("disp is sealed now.");
+        }
+}
 }

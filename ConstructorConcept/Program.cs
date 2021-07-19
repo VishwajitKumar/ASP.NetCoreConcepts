@@ -5,7 +5,7 @@ namespace ConstructorConcept
     class Program
     {
         //Normally base class PARAMETERLESS constructor called first when child class object gets created.
-        //But if we want to execute parameterised constructor to be called then
+        //But if we want parameterised constructor to be called then
         //we inherite child class constructor from inbuilt base method with matching parameter with base class constructor.
         //refer line public ChildClass():base("Derived class constructor controlling base class constructor execution")
         static void Main(string[] args)

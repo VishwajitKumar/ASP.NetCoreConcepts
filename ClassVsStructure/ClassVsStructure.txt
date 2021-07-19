@@ -14,10 +14,10 @@ When you copy a struct into another struct, a new copy of that struct gets creat
 When you copy a class into another class, we only get a copy of the reference variale. Both the reference variables point to the same object on the heap. 
 So, operations on one variable will affect the values contained by the other reference variable.
 
-struct cant have destructors but classes can have destructors.
+struct can not have destructors but classes can have destructors.
 
-struct cannot have explicit parameter less constructor whareas classes have.
+struct can not have explicit parameter less constructor whareas classes have.
 
-struct cant inherit from another class where as a class can. 
+struct can not inherit from another class where as a class can. 
 
 But, both structs and classes can inherit from interfaces.
