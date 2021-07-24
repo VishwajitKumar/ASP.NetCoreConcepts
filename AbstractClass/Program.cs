@@ -2,7 +2,7 @@
 
 namespace AbstractClass
 {
-    //Normal Class cannot have abstract class
+    //Normal Class cannot have abstract members
     public class NormalClass
     {
         //public abstract void PrintMessage();

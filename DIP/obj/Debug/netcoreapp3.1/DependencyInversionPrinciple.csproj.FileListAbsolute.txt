@@ -10,4 +10,3 @@ C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\
 C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
 C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
 C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.genruntimeconfig.cache
-C:\Users\Vishwajit.Kumar\source\ASP.NetCoreConcepts\DIP\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csproj.AssemblyReference.cache
