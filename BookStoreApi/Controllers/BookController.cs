@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BookStoreApi.Model;
 using BookStoreApi.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -9,6 +10,7 @@ namespace BookStoreApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class BookController : ControllerBase
     {
         private readonly IBookRepository _bookRepository;

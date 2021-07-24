@@ -1,4 +1,5 @@
 ﻿using BookStoreApi.Model;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BookStoreApi.Data
 {
-    public class BookStoreContext : DbContext
+    public class BookStoreContext : IdentityDbContext<ApplicationUser>
     {
         public BookStoreContext(DbContextOptions<BookStoreContext> options) : base(options)
         {

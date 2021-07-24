@@ -35,5 +35,17 @@ namespace TestCheckProject
 
             Console.ReadKey();
         }
+
+        public int PrintVal(ref int i)
+        {
+            i = 10;
+            return i;
+        }
+        //Can not overload method based on ref and out keyword
+        //public int PrintVal(out int i)
+        //{
+        //    i = 10;
+        //    return i;
+        //}
     }
 }
